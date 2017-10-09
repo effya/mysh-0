@@ -1,0 +1,59 @@
+[33mcommit f8b8ceddedb3569348067de7a97756607572177f[m
+Author: effya <shs97110@naver.com>
+Date:   Tue Sep 19 15:11:50 2017 +0900
+
+    hihii
+
+[33mcommit dc2a5ef1fe573627a5e8010549a7a6ae600a5d74[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Thu Sep 21 10:03:50 2017 +0900
+
+    Add error handling to validate arugments
+
+[33mcommit 03b8c017f2f9198d86a0808995699c5b33a2d910[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Tue Sep 19 00:44:50 2017 +0900
+
+    Add command validating test
+
+[33mcommit ea92bf63bfdfb62820e77cee6322f9f9ff247b29[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Mon Sep 18 17:06:34 2017 +0900
+
+    Restructure main()
+
+[33mcommit 244fa3f77a8db6625661550728dc46bd51fcaedc[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Mon Sep 18 16:53:40 2017 +0900
+
+    Change interface of mysh_parse_command
+
+[33mcommit 482c8cdc94486bff5679e6cf240a1ac7b1d9107a[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Sun Sep 17 00:22:05 2017 +0900
+
+    Ready to implement cd and pwd commands
+
+[33mcommit 96085988a859fd6306e905f7cc796400a7a10311[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Sun Sep 17 00:00:03 2017 +0900
+
+    Add Makefile
+
+[33mcommit a8d151b15789b7a475dbe177af3ce7d37218543b[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Sat Sep 16 23:57:11 2017 +0900
+
+    Add test cases
+
+[33mcommit 93204f6985faa7a471de6eec0d94751b6d8b5f66[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Sat Sep 16 23:39:18 2017 +0900
+
+    Add testing functionality
+
+[33mcommit 6e12e126862c900e53069c94a584876cb8ba4145[m
+Author: Jaewon Choi <jaewon.james.choi@gmail.com>
+Date:   Sat Sep 16 23:13:10 2017 +0900
+
+    Initial commit
